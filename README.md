@@ -23,4 +23,4 @@ Logistic Regression with tfidf         0.8629180615604796\
 ## Conclusion :
 Used Logistic Regression and Decision Tree classifiers to evaluate the result, able to find the top 10
 words for classification and Logistic Regression with tfidf features. \
-Logistic Regression performed better compared to Decision Trees
+Logistic Regression performed better compared to Decision Tree
