@@ -21,6 +21,6 @@ Logistic Regression with bag of words  0.8777568700084069\
 Logistic Regression with tfidf         0.8629180615604796
 
 ## Conclusion :
-Used Logistic Regression and Decision Tree classifiers to evaluate the result, able to find the top 10
+Used Logistic Regression and Decision Tree classifiers to evaluate the result, able to find the top 10 
 words for classification and Logistic Regression with tfidf features. \
 Logistic Regression performed better compared to Decision Tree
