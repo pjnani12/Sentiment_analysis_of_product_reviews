@@ -8,7 +8,7 @@ https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/
 • Stop word Removal → lemmatization → Vectorization → Model Training → Hyper Parameter Tuning → Evaluation Metrics\
 • Hyper_parameter_tuning :- Using Random Search we did hyperparameter tuning for both decision Trees and logistic Regression.
 
-## F1 SCORES FOR ALL CLASSIFIERS:
+## F1 SCORES FOR ALL CLASSIFIERS: 
 Decision Tree with bag of words        0.981902871105681\
 Decision Tree with tfidf               0.9823194714934891\
 Logistic Regression with bag of words  0.9780486863932718\
